@@ -1,8 +1,8 @@
-<h3 align="left">Hi 👋! My name is Himanshu<br><br>Full Stack Developer | New Delhi</h3>
+<h2 align="left">Hi 👋! My name is Himanshu<br><br>Full Stack Developer | New Delhi</h2>
 
 ###
 
-<h4 align="left">Backend</h4>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">Frontend</h4>
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">Databases</h4>
+<h3 align="left">Databases</h3>
 
 ###
 
@@ -48,9 +48,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="left">Cloud</h4>
+<h3 align="left">Cloud</h3>
 
 ###
 
